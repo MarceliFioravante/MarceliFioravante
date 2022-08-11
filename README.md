@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarceliFioravante
-- 🌱 I’m currently learning Python, Django, HTML, CSS, JavaScript
+- I’m currently learning Python, Django, HTML, CSS, JavaScript
 
 ### Detalhes
 
